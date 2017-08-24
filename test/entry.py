@@ -13,9 +13,20 @@ routine.append("./implicit")
 pprint(routine)
 
 
-import explicit.libe
+from explicit.libe import a, aa, b, BB
 from libi import *
 
 
-print(type(explicit.libe))
-print(dir(explicit.libe))
+class TestForFromClassImportItsSundryAttributes:
+    ClassAttribute = lambda: print("class attribute")
+    def ordinaryMethod(self):
+        print("ordinary method")
+    @staticmethod
+    def staticMethod():
+        print("static method")
+    @classmethod
+    def classMethod(that):
+        print("class method")
+    def __repr__(self):
+        print("magic method")
+        return "test for from class import its sundry attributes"
