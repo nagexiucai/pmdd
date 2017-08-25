@@ -11,3 +11,8 @@ def me():
 
 
 from explicit.intricacy import *
+
+
+# 测试相对引入
+# from ..implicit import libi  # attempted relative import beyond top-level package
+from .intricacy import *

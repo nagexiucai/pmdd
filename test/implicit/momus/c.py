@@ -7,3 +7,7 @@ def c():
 
 def cc():
     print("this is", cc.__name__, "in", __file__)
+
+# 测试相对导入
+from . import d
+# from .. import momus  # TODO: attempted relative import beyond top-level package

@@ -42,3 +42,6 @@ from momus import c as C
 print("=====use as rename entities===== from", __file__)
 pprint(C.__dict__)
 print(C.__spec__.origin)
+
+# 测试相对导入
+# from .momus.c import c  # cannot perform relative import because parent module '' not loaded

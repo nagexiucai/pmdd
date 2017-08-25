@@ -8,12 +8,14 @@ __email__ = "me@nagexiucai.com"
 import sys
 import os
 import importlib
+from types import ModuleType
 from pprint import pprint
 
 import string
 import re
 import tokenize
 import ast
+import modulefinder
 
 
 # TODO:
@@ -21,6 +23,7 @@ import ast
 # 2、运用正则表达式
 # 3、依赖词法库
 # 4、基于抽象语法树
+# 5、标准工具改造
 # a、exec探测module
 # b、import钩子（imp/importlib）
 
@@ -60,19 +63,22 @@ def rinse(entry):
             line = line.strip()
             if line.startswith("from ") or line.startswith("import "):  # TODO: 处理多行语句（\）
                 _ = test(line)
+                print(line)
                 if _ is False:
                     print("syntax error.")
                 elif _ is None:
                     print("import error.")
                 else:
-                    print(line)
                     _, __ = line.split("import ")
                     if _:
                         _, package = _.split()
                     else:
                         package = "set"
-                    phrases = [_.strip().split("as")[0].strip() for _ in __.split(",")]  # TODO: 处理暴力引用（*）
+                    phrases = [[_.strip().split("as")[-1].strip()] for _ in __.split(",")]  # TODO: 处理暴力引用（*）
                     yield package, phrases
+                    for phrase in phrases:
+                        if eval("isinstance({name}, ModuleType)".format(name=phrase)):
+                            print("=====", phrase)
 
 
 def test(text):

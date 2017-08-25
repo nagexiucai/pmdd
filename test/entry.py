@@ -13,6 +13,7 @@ routine.append("./implicit")
 pprint(routine)
 
 
+# 测试引入实体后重命名
 from explicit.libe import a, aa, b, BB
 from libi import *
 

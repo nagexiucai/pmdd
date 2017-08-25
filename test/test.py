@@ -15,3 +15,7 @@ from os.path import isabs  # 可以将亲模块以下的非子模块实体直接
 # TODO: 且
 # 模块对象中有__spec__魔法（其origin属性就是脚本或目录的绝对路径）
 # 非入口模块都有__package__魔法表示亲模块名
+
+print(dir())
+exec("from pprint import pprint")
+print(dir())
