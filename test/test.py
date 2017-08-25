@@ -5,7 +5,7 @@ from os import path  # 可以从亲模块中通过from parent-module import kid-
 from os.path import isabs  # 可以将亲模块以下的非子模块实体直接通过from parent-module import class-or-function-or-variable从模块中导入
 # from entry.TestForFromClassImportItsSundryAttributes import *  # 不可以从类中导入类的属性（即使是静态的）
 # import entry.TestForFromClassImportItsSundryAttributes  # 不可以直接导入类
-
+import bdb
 
 # TODO: 基于上述规则，可得出如下结论
 # import 祈使句谓词后边宾体必然是模块
@@ -15,7 +15,4 @@ from os.path import isabs  # 可以将亲模块以下的非子模块实体直接
 # TODO: 且
 # 模块对象中有__spec__魔法（其origin属性就是脚本或目录的绝对路径）
 # 非入口模块都有__package__魔法表示亲模块名
-
-print(dir())
-exec("from pprint import pprint")
-print(dir())
+# __spec__.origin为None的模块是非源码的

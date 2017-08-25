@@ -1,16 +1,18 @@
-print("file is", __file__)
-print("package is", __package__)
+from cfg import tprint, tpprint
+
+
+tprint("file is", __file__)
+tprint("package is", __package__)
 
 
 from sys import path as routine
 from os import system
-from pprint import pprint
 
 
-pprint(routine)
-# print("erase routine", routine.pop(0))
+# tpprint(routine)
+# tprint("erase routine", routine.pop(0))
 routine.append("./implicit")
-pprint(routine)
+# tpprint(routine)
 
 
 # 测试引入实体后重命名
@@ -19,15 +21,15 @@ from libi import *
 
 
 class TestForFromClassImportItsSundryAttributes:
-    ClassAttribute = lambda: print("class attribute")
+    ClassAttribute = lambda: tprint("class attribute")
     def ordinaryMethod(self):
-        print("ordinary method")
+        tprint("ordinary method")
     @staticmethod
     def staticMethod():
-        print("static method")
+        tprint("static method")
     @classmethod
     def classMethod(that):
-        print("class method")
+        tprint("class method")
     def __repr__(self):
-        print("magic method")
+        tprint("magic method")
         return "test for from class import its sundry attributes"
