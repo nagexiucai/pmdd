@@ -1,0 +1,1277 @@
+{
+  "__future__": {
+    "owner": "D:\\Python\\Python36\\lib\\__future__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\codeop.py"
+    ]
+  },
+  "__main__": {
+    "owner": null,
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\bdb.py"
+    ]
+  },
+  "_bisect": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\bisect.py"
+    ]
+  },
+  "_blake2": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_bootlocale": {
+    "owner": "D:\\Python\\Python36\\lib\\_bootlocale.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\encodings\\__init__.py"
+    ]
+  },
+  "_bz2": {
+    "owner": "D:\\Python\\Python36\\DLLs\\_bz2.pyd",
+    "user": [
+      "D:\\Python\\Python36\\lib\\bz2.py"
+    ]
+  },
+  "_codecs": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\codecs.py"
+    ]
+  },
+  "_collections": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\enum.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\threading.py"
+    ]
+  },
+  "_collections_abc": {
+    "owner": "D:\\Python\\Python36\\lib\\_collections_abc.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\contextlib.py",
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "_compat_pickle": {
+    "owner": "D:\\Python\\Python36\\lib\\_compat_pickle.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pickle.py"
+    ]
+  },
+  "_compression": {
+    "owner": "D:\\Python\\Python36\\lib\\_compression.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\bz2.py",
+      "D:\\Python\\Python36\\lib\\lzma.py"
+    ]
+  },
+  "_datetime": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\datetime.py"
+    ]
+  },
+  "_dummy_thread": {
+    "owner": "D:\\Python\\Python36\\lib\\_dummy_thread.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\reprlib.py",
+      "D:\\Python\\Python36\\lib\\_dummy_thread.py",
+      "D:\\Python\\Python36\\lib\\dummy_threading.py",
+      "D:\\Python\\Python36\\lib\\_strptime.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py"
+    ]
+  },
+  "_dummy_threading": {
+    "owner": "D:\\Python\\Python36\\lib\\threading.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\dummy_threading.py"
+    ]
+  },
+  "_frozen_importlib": {
+    "owner": null,
+    "user": [
+      "D:\\Python\\Python36\\lib\\importlib\\__init__.py"
+    ]
+  },
+  "_frozen_importlib_external": {
+    "owner": "frozen",
+    "user": [
+      "D:\\Python\\Python36\\lib\\importlib\\__init__.py"
+    ]
+  },
+  "_functools": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\functools.py"
+    ]
+  },
+  "_hashlib": {
+    "owner": "D:\\Python\\Python36\\DLLs\\_hashlib.pyd",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_heapq": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\heapq.py"
+    ]
+  },
+  "_io": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\io.py"
+    ]
+  },
+  "_locale": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\_bootlocale.py"
+    ]
+  },
+  "_lzma": {
+    "owner": "D:\\Python\\Python36\\DLLs\\_lzma.pyd",
+    "user": [
+      "D:\\Python\\Python36\\lib\\lzma.py"
+    ]
+  },
+  "_md5": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_opcode": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\opcode.py"
+    ]
+  },
+  "_operator": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\operator.py"
+    ]
+  },
+  "_random": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "_sha1": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_sha256": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_sha3": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_sha512": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "_signal": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\signal.py"
+    ]
+  },
+  "_socket": {
+    "owner": "D:\\Python\\Python36\\DLLs\\_socket.pyd",
+    "user": [
+      "D:\\Python\\Python36\\lib\\socket.py"
+    ]
+  },
+  "_sre": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\sre_compile.py",
+      "D:\\Python\\Python36\\lib\\sre_constants.py"
+    ]
+  },
+  "_stat": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\stat.py"
+    ]
+  },
+  "_string": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\string.py"
+    ]
+  },
+  "_strptime": {
+    "owner": "D:\\Python\\Python36\\lib\\_strptime.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\datetime.py"
+    ]
+  },
+  "_struct": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\struct.py"
+    ]
+  },
+  "_thread": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\functools.py",
+      "D:\\Python\\Python36\\lib\\reprlib.py",
+      "D:\\Python\\Python36\\lib\\_dummy_thread.py",
+      "D:\\Python\\Python36\\lib\\threading.py",
+      "D:\\Python\\Python36\\lib\\_strptime.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py"
+    ]
+  },
+  "_threading_local": {
+    "owner": "D:\\Python\\Python36\\lib\\_threading_local.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\threading.py"
+    ]
+  },
+  "_tracemalloc": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\tracemalloc.py"
+    ]
+  },
+  "_weakref": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\_weakrefset.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py"
+    ]
+  },
+  "_weakrefset": {
+    "owner": "D:\\Python\\Python36\\lib\\_weakrefset.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\abc.py",
+      "D:\\Python\\Python36\\lib\\weakref.py",
+      "D:\\Python\\Python36\\lib\\threading.py"
+    ]
+  },
+  "_winapi": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\subprocess.py"
+    ]
+  },
+  "abc": {
+    "owner": "D:\\Python\\Python36\\lib\\abc.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\functools.py",
+      "D:\\Python\\Python36\\lib\\_collections_abc.py",
+      "D:\\Python\\Python36\\lib\\io.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\contextlib.py",
+      "D:\\Python\\Python36\\lib\\selectors.py"
+    ]
+  },
+  "argparse": {
+    "owner": "D:\\Python\\Python36\\lib\\argparse.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\dis.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\code.py",
+      "D:\\Python\\Python36\\lib\\calendar.py"
+    ]
+  },
+  "atexit": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\weakref.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "bdb": {
+    "owner": "D:\\Python\\Python36\\lib\\bdb.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "bisect": {
+    "owner": "D:\\Python\\Python36\\lib\\bisect.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "builtins": {
+    "owner": null,
+    "user": [
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\operator.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\codecs.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\reprlib.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\bz2.py",
+      "D:\\Python\\Python36\\lib\\lzma.py"
+    ]
+  },
+  "bz2": {
+    "owner": "D:\\Python\\Python36\\lib\\bz2.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\shutil.py"
+    ]
+  },
+  "calendar": {
+    "owner": "D:\\Python\\Python36\\lib\\calendar.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\_strptime.py"
+    ]
+  },
+  "cfg": {
+    "owner": "E:\\nagexiucai\\pmdd\\cfg.py",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\entry.py",
+      "E:\\nagexiucai\\pmdd\\test\\explicit\\__init__.py",
+      "E:\\nagexiucai\\pmdd\\test\\implicit\\libi.py"
+    ]
+  },
+  "cmd": {
+    "owner": "D:\\Python\\Python36\\lib\\cmd.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "code": {
+    "owner": "D:\\Python\\Python36\\lib\\code.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "codecs": {
+    "owner": "D:\\Python\\Python36\\lib\\codecs.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\encodings\\__init__.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py"
+    ]
+  },
+  "codeop": {
+    "owner": "D:\\Python\\Python36\\lib\\codeop.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\code.py"
+    ]
+  },
+  "collections": {
+    "owner": "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\enum.py",
+      "D:\\Python\\Python36\\lib\\functools.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\difflib.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\dis.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\tracemalloc.py",
+      "D:\\Python\\Python36\\lib\\pprint.py",
+      "D:\\Python\\Python36\\lib\\string.py",
+      "D:\\Python\\Python36\\lib\\traceback.py",
+      "D:\\Python\\Python36\\lib\\shlex.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\threading.py",
+      "D:\\Python\\Python36\\lib\\contextlib.py",
+      "D:\\Python\\Python36\\lib\\selectors.py",
+      "D:\\Python\\Python36\\lib\\shutil.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "collections.abc": {
+    "owner": "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\types.py",
+      "D:\\Python\\Python36\\lib\\inspect.py"
+    ]
+  },
+  "contextlib": {
+    "owner": "D:\\Python\\Python36\\lib\\contextlib.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\_threading_local.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py"
+    ]
+  },
+  "copy": {
+    "owner": "D:\\Python\\Python36\\lib\\copy.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\copy.py",
+      "D:\\Python\\Python36\\lib\\weakref.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "copyreg": {
+    "owner": "D:\\Python\\Python36\\lib\\copyreg.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py",
+      "D:\\Python\\Python36\\lib\\copy.py",
+      "D:\\Python\\Python36\\lib\\pickle.py"
+    ]
+  },
+  "datetime": {
+    "owner": "D:\\Python\\Python36\\lib\\datetime.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\calendar.py"
+    ]
+  },
+  "difflib": {
+    "owner": "D:\\Python\\Python36\\lib\\difflib.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\difflib.py"
+    ]
+  },
+  "dis": {
+    "owner": "D:\\Python\\Python36\\lib\\dis.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "doctest": {
+    "owner": "D:\\Python\\Python36\\lib\\doctest.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\heapq.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\difflib.py",
+      "D:\\Python\\Python36\\lib\\pickle.py"
+    ]
+  },
+  "dummy_threading": {
+    "owner": "D:\\Python\\Python36\\lib\\dummy_threading.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\bz2.py"
+    ]
+  },
+  "email.message": {
+    "owner": "D:\\Python\\Python36\\lib\\email\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "email.parser": {
+    "owner": "D:\\Python\\Python36\\lib\\email\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\email\\__init__.py"
+    ]
+  },
+  "encodings": {
+    "owner": "D:\\Python\\Python36\\lib\\encodings\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\codecs.py"
+    ]
+  },
+  "encodings.mbcs": {
+    "owner": "D:\\Python\\Python36\\lib\\encodings\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\encodings\\__init__.py"
+    ]
+  },
+  "enum": {
+    "owner": "D:\\Python\\Python36\\lib\\enum.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\signal.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\socket.py",
+      "D:\\Python\\Python36\\lib\\http\\__init__.py"
+    ]
+  },
+  "errno": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\socket.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py",
+      "D:\\Python\\Python36\\lib\\shutil.py"
+    ]
+  },
+  "explicit.libe": {
+    "owner": "./test\\explicit\\__init__.py",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\entry.py"
+    ]
+  },
+  "fnmatch": {
+    "owner": "D:\\Python\\Python36\\lib\\fnmatch.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\tracemalloc.py",
+      "D:\\Python\\Python36\\lib\\bdb.py",
+      "D:\\Python\\Python36\\lib\\glob.py",
+      "D:\\Python\\Python36\\lib\\shutil.py"
+    ]
+  },
+  "functools": {
+    "owner": "D:\\Python\\Python36\\lib\\functools.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py",
+      "D:\\Python\\Python36\\lib\\enum.py",
+      "D:\\Python\\Python36\\lib\\types.py",
+      "D:\\Python\\Python36\\lib\\operator.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\linecache.py",
+      "D:\\Python\\Python36\\lib\\tracemalloc.py",
+      "D:\\Python\\Python36\\lib\\fnmatch.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\signal.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\contextlib.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py"
+    ]
+  },
+  "gc": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\weakref.py"
+    ]
+  },
+  "genericpath": {
+    "owner": "D:\\Python\\Python36\\lib\\genericpath.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\posixpath.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "getopt": {
+    "owner": "D:\\Python\\Python36\\lib\\getopt.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "gettext": {
+    "owner": "D:\\Python\\Python36\\lib\\gettext.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\getopt.py"
+    ]
+  },
+  "glob": {
+    "owner": "D:\\Python\\Python36\\lib\\glob.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "hashlib": {
+    "owner": "D:\\Python\\Python36\\lib\\hashlib.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "heapq": {
+    "owner": "D:\\Python\\Python36\\lib\\heapq.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\difflib.py"
+    ]
+  },
+  "http.server": {
+    "owner": "D:\\Python\\Python36\\lib\\http\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "importlib": {
+    "owner": "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "importlib._bootstrap": {
+    "owner": "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "importlib._bootstrap_external": {
+    "owner": "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "importlib.machinery": {
+    "owner": "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "importlib.util": {
+    "owner": "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "inspect": {
+    "owner": "D:\\Python\\Python36\\lib\\inspect.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\bdb.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "io": {
+    "owner": "D:\\Python\\Python36\\lib\\io.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\dis.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\pprint.py",
+      "D:\\Python\\Python36\\lib\\shlex.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\socket.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py",
+      "D:\\Python\\Python36\\lib\\bz2.py",
+      "D:\\Python\\Python36\\lib\\_compression.py",
+      "D:\\Python\\Python36\\lib\\lzma.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "itertools": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\weakref.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\reprlib.py",
+      "D:\\Python\\Python36\\lib\\traceback.py",
+      "D:\\Python\\Python36\\lib\\threading.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\calendar.py",
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "keyword": {
+    "owner": "D:\\Python\\Python36\\lib\\keyword.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py"
+    ]
+  },
+  "libi": {
+    "owner": "./test/implicit\\libi.py",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\entry.py"
+    ]
+  },
+  "linecache": {
+    "owner": "D:\\Python\\Python36\\lib\\linecache.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\warnings.py",
+      "D:\\Python\\Python36\\lib\\tracemalloc.py",
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\bdb.py",
+      "D:\\Python\\Python36\\lib\\traceback.py"
+    ]
+  },
+  "locale": {
+    "owner": "D:\\Python\\Python36\\lib\\locale.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\_bootlocale.py",
+      "D:\\Python\\Python36\\lib\\_strptime.py",
+      "D:\\Python\\Python36\\lib\\calendar.py"
+    ]
+  },
+  "logging": {
+    "owner": "D:\\Python\\Python36\\lib\\logging\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\hashlib.py"
+    ]
+  },
+  "lzma": {
+    "owner": "D:\\Python\\Python36\\lib\\lzma.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\shutil.py"
+    ]
+  },
+  "marshal": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "math": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\selectors.py",
+      "D:\\Python\\Python36\\lib\\datetime.py",
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "momus": {
+    "owner": "namespace",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\implicit\\libi.py"
+    ]
+  },
+  "momus.c": {
+    "owner": "namespace",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\implicit\\libi.py"
+    ]
+  },
+  "momus.d": {
+    "owner": "namespace",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\implicit\\libi.py"
+    ]
+  },
+  "msvcrt": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\subprocess.py"
+    ]
+  },
+  "nt": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\shutil.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "ntpath": {
+    "owner": "D:\\Python\\Python36\\lib\\ntpath.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py"
+    ]
+  },
+  "opcode": {
+    "owner": "D:\\Python\\Python36\\lib\\opcode.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\dis.py"
+    ]
+  },
+  "operator": {
+    "owner": "D:\\Python\\Python36\\lib\\operator.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\enum.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\inspect.py"
+    ]
+  },
+  "os": {
+    "owner": "D:\\Python\\Python36\\lib\\os.py",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\entry.py",
+      "E:\\nagexiucai\\pmdd\\cfg.py",
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\posixpath.py",
+      "D:\\Python\\Python36\\lib\\genericpath.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\linecache.py",
+      "D:\\Python\\Python36\\lib\\fnmatch.py",
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\bdb.py",
+      "D:\\Python\\Python36\\lib\\glob.py",
+      "D:\\Python\\Python36\\lib\\shlex.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\socket.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py",
+      "D:\\Python\\Python36\\lib\\shutil.py",
+      "D:\\Python\\Python36\\lib\\bz2.py",
+      "D:\\Python\\Python36\\lib\\lzma.py",
+      "D:\\Python\\Python36\\lib\\random.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py",
+      "D:\\Python\\Python36\\lib\\getopt.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "os.path": {
+    "owner": "D:\\Python\\Python36\\lib\\os.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\tracemalloc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\unittest\\__init__.py"
+    ]
+  },
+  "pdb": {
+    "owner": "D:\\Python\\Python36\\lib\\pdb.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "pickle": {
+    "owner": "D:\\Python\\Python36\\lib\\pickle.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\tracemalloc.py"
+    ]
+  },
+  "pkgutil": {
+    "owner": "D:\\Python\\Python36\\lib\\pkgutil.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "platform": {
+    "owner": "D:\\Python\\Python36\\lib\\platform.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "plistlib": {
+    "owner": "D:\\Python\\Python36\\lib\\plistlib.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\platform.py"
+    ]
+  },
+  "posixpath": {
+    "owner": "D:\\Python\\Python36\\lib\\posixpath.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\fnmatch.py"
+    ]
+  },
+  "pprint": {
+    "owner": "D:\\Python\\Python36\\lib\\pprint.py",
+    "user": [
+      "E:\\nagexiucai\\pmdd\\cfg.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "pydoc": {
+    "owner": "D:\\Python\\Python36\\lib\\pydoc.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py"
+    ]
+  },
+  "pydoc_data.topics": {
+    "owner": "D:\\Python\\Python36\\lib\\pydoc_data\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "random": {
+    "owner": "D:\\Python\\Python36\\lib\\random.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\tempfile.py"
+    ]
+  },
+  "re": {
+    "owner": "D:\\Python\\Python36\\lib\\re.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\posixpath.py",
+      "D:\\Python\\Python36\\lib\\keyword.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\textwrap.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\difflib.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\warnings.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\token.py",
+      "D:\\Python\\Python36\\lib\\fnmatch.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\pprint.py",
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\string.py",
+      "D:\\Python\\Python36\\lib\\glob.py",
+      "D:\\Python\\Python36\\lib\\shlex.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\_strptime.py"
+    ]
+  },
+  "reprlib": {
+    "owner": "D:\\Python\\Python36\\lib\\reprlib.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\functools.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\bdb.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "select": {
+    "owner": "D:\\Python\\Python36\\DLLs\\select.pyd",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\selectors.py"
+    ]
+  },
+  "selectors": {
+    "owner": "D:\\Python\\Python36\\lib\\selectors.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\socket.py"
+    ]
+  },
+  "shlex": {
+    "owner": "D:\\Python\\Python36\\lib\\shlex.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "shutil": {
+    "owner": "D:\\Python\\Python36\\lib\\shutil.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\tempfile.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "signal": {
+    "owner": "D:\\Python\\Python36\\lib\\signal.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py"
+    ]
+  },
+  "socket": {
+    "owner": "D:\\Python\\Python36\\lib\\socket.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "sre_compile": {
+    "owner": "D:\\Python\\Python36\\lib\\sre_compile.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py"
+    ]
+  },
+  "sre_constants": {
+    "owner": "D:\\Python\\Python36\\lib\\sre_constants.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py",
+      "D:\\Python\\Python36\\lib\\sre_compile.py",
+      "D:\\Python\\Python36\\lib\\sre_parse.py"
+    ]
+  },
+  "sre_parse": {
+    "owner": "D:\\Python\\Python36\\lib\\sre_parse.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\re.py",
+      "D:\\Python\\Python36\\lib\\sre_compile.py"
+    ]
+  },
+  "stat": {
+    "owner": "D:\\Python\\Python36\\lib\\stat.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\posixpath.py",
+      "D:\\Python\\Python36\\lib\\genericpath.py",
+      "D:\\Python\\Python36\\lib\\shutil.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "string": {
+    "owner": "D:\\Python\\Python36\\lib\\string.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\cmd.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "struct": {
+    "owner": "D:\\Python\\Python36\\lib\\struct.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py"
+    ]
+  },
+  "subprocess": {
+    "owner": "D:\\Python\\Python36\\lib\\subprocess.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "sys": {
+    "owner": null,
+    "user": [
+      "E:\\nagexiucai\\pmdd\\test\\entry.py",
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\posixpath.py",
+      "D:\\Python\\Python36\\lib\\enum.py",
+      "D:\\Python\\Python36\\lib\\types.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\_collections_abc.py",
+      "D:\\Python\\Python36\\lib\\keyword.py",
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\weakref.py",
+      "D:\\Python\\Python36\\lib\\gettext.py",
+      "D:\\Python\\Python36\\lib\\locale.py",
+      "D:\\Python\\Python36\\lib\\encodings\\__init__.py",
+      "D:\\Python\\Python36\\lib\\codecs.py",
+      "D:\\Python\\Python36\\lib\\_bootlocale.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\dis.py",
+      "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+      "D:\\Python\\Python36\\lib\\warnings.py",
+      "D:\\Python\\Python36\\lib\\linecache.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py",
+      "D:\\Python\\Python36\\lib\\token.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\pprint.py",
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\cmd.py",
+      "D:\\Python\\Python36\\lib\\bdb.py",
+      "D:\\Python\\Python36\\lib\\traceback.py",
+      "D:\\Python\\Python36\\lib\\code.py",
+      "D:\\Python\\Python36\\lib\\shlex.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\threading.py",
+      "D:\\Python\\Python36\\lib\\contextlib.py",
+      "D:\\Python\\Python36\\lib\\selectors.py",
+      "D:\\Python\\Python36\\lib\\dummy_threading.py",
+      "D:\\Python\\Python36\\lib\\calendar.py",
+      "D:\\Python\\Python36\\lib\\socket.py",
+      "D:\\Python\\Python36\\lib\\shutil.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py",
+      "D:\\Python\\Python36\\lib\\getopt.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "tempfile": {
+    "owner": "D:\\Python\\Python36\\lib\\tempfile.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\webbrowser.py"
+    ]
+  },
+  "textwrap": {
+    "owner": "D:\\Python\\Python36\\lib\\textwrap.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\argparse.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "threading": {
+    "owner": "D:\\Python\\Python36\\lib\\threading.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\_threading_local.py",
+      "D:\\Python\\Python36\\lib\\dummy_threading.py",
+      "D:\\Python\\Python36\\lib\\bz2.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "time": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pprint.py",
+      "D:\\Python\\Python36\\lib\\_dummy_thread.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\threading.py",
+      "D:\\Python\\Python36\\lib\\datetime.py",
+      "D:\\Python\\Python36\\lib\\_strptime.py",
+      "D:\\Python\\Python36\\lib\\random.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "token": {
+    "owner": "D:\\Python\\Python36\\lib\\token.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\tokenize.py"
+    ]
+  },
+  "tokenize": {
+    "owner": "D:\\Python\\Python36\\lib\\tokenize.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\linecache.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "traceback": {
+    "owner": "D:\\Python\\Python36\\lib\\traceback.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\pdb.py",
+      "D:\\Python\\Python36\\lib\\_dummy_thread.py",
+      "D:\\Python\\Python36\\lib\\code.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\threading.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "tracemalloc": {
+    "owner": "D:\\Python\\Python36\\lib\\tracemalloc.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\warnings.py"
+    ]
+  },
+  "types": {
+    "owner": "D:\\Python\\Python36\\lib\\types.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\enum.py",
+      "D:\\Python\\Python36\\lib\\functools.py",
+      "D:\\Python\\Python36\\lib\\copy.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\dis.py",
+      "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+      "D:\\Python\\Python36\\lib\\pickle.py",
+      "D:\\Python\\Python36\\lib\\pprint.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\random.py"
+    ]
+  },
+  "unittest": {
+    "owner": "D:\\Python\\Python36\\lib\\unittest\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\doctest.py",
+      "D:\\Python\\Python36\\lib\\unittest\\__init__.py"
+    ]
+  },
+  "urllib.parse": {
+    "owner": "D:\\Python\\Python36\\lib\\urllib\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "warnings": {
+    "owner": "D:\\Python\\Python36\\lib\\warnings.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\os.py",
+      "D:\\Python\\Python36\\lib\\collections\\__init__.py",
+      "D:\\Python\\Python36\\lib\\inspect.py",
+      "D:\\Python\\Python36\\lib\\importlib\\__init__.py",
+      "D:\\Python\\Python36\\lib\\string.py",
+      "D:\\Python\\Python36\\lib\\pydoc.py",
+      "D:\\Python\\Python36\\lib\\pkgutil.py",
+      "D:\\Python\\Python36\\lib\\platform.py",
+      "D:\\Python\\Python36\\lib\\subprocess.py",
+      "D:\\Python\\Python36\\lib\\plistlib.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py",
+      "D:\\Python\\Python36\\lib\\bz2.py",
+      "D:\\Python\\Python36\\lib\\random.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py",
+      "D:\\Python\\Python36\\lib\\sre_parse.py",
+      "D:\\Python\\Python36\\lib\\ntpath.py"
+    ]
+  },
+  "weakref": {
+    "owner": "D:\\Python\\Python36\\lib\\weakref.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\functools.py",
+      "D:\\Python\\Python36\\lib\\copy.py",
+      "D:\\Python\\Python36\\lib\\_threading_local.py",
+      "D:\\Python\\Python36\\lib\\tempfile.py",
+      "D:\\Python\\Python36\\lib\\logging\\__init__.py"
+    ]
+  },
+  "webbrowser": {
+    "owner": "D:\\Python\\Python36\\lib\\webbrowser.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pydoc.py"
+    ]
+  },
+  "winreg": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\platform.py"
+    ]
+  },
+  "xml.parsers.expat": {
+    "owner": "D:\\Python\\Python36\\lib\\xml\\__init__.py",
+    "user": [
+      "D:\\Python\\Python36\\lib\\plistlib.py"
+    ]
+  },
+  "zipimport": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\pkgutil.py"
+    ]
+  },
+  "zlib": {
+    "owner": "built-in",
+    "user": [
+      "D:\\Python\\Python36\\lib\\shutil.py"
+    ]
+  }
+}
