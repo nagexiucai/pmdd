@@ -118,6 +118,11 @@ def rinse(entry):
                         if package.startswith("."):
                             package = _relative_convert_to_absolute(package, entry)
                         m = __import_from__(package)
+                        if "explicit.libe" == package:  # TODO: 暴露之前对包导入认识的盲点，引起对__import__("x.y")返回值的注意，进而导致rinse的重构
+                            for k in dir(m):
+                                v = getattr(m, k)
+                                if type(v) is ModuleType:
+                                    mprint("@", "inner", k)
                         if m:
                             owner = _do_owner(m)
                             mprint("$", package, owner)
@@ -165,7 +170,7 @@ def test(text):
 
 
 def tree(entry, out={}):
-    if entry in (None, "built-in", "namespace", "frozen"):
+    if entry in (None, "built-in", "namespace", "frozen"):  # TODO: namespace是目录包下没有__init__.py的__spec__.origin
         return
     _ = os.path.basename(entry)
     for __ in suffix[1:]:
@@ -217,8 +222,8 @@ def analyse(jf):
 
 
 if __name__ == "__main__":
-    # tree("./test/entry.py", __out__)
+    tree("./test/entry.py", __out__)
     # mprint(dir())
     # mprint(globals())
     # mprint(locals())
-    analyse("./md-maps-plus.json")
+    # analyse("./md-maps-plus.json")
